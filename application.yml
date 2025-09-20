@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: my-app
+message: Привет из конфигурации по умолчанию!
